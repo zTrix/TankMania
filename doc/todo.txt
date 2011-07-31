@@ -1,0 +1,4 @@
+#jar 把res放到里面
+#bullet left in screen
+#create tanks at init
+#add bullet thru wall func
